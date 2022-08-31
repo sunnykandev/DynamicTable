@@ -1,0 +1,17 @@
+.table {
+  border: 1px dotted;
+  padding: 5px 5px 0px 5px;
+  margin:30px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.cell, .column {
+  border: 1px dotted;
+  padding: 10px;
+}

@@ -1,0 +1,19 @@
+.editable-cell{
+    display:flex;
+}
+
+.editable-cell input{
+    outline:none;
+    min-width: 0;
+    width: 100%;
+    background: #0000;
+    border: none;
+    color: white;
+    height: 30px;
+    font-size: calc(10px + 2vmin);
+}
+
+.editable-cell input:active{
+    border:none;
+    outline: none;
+}
