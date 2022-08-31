@@ -1,6 +1,7 @@
-# Surefront React Coding Challenge
+# React/Redux/Typescript Coding Challenge
 
-This challenge is intended to test your Redux, Typescript, and Git skills. Described below is a scenario that is similar to what you might face during a regular day here at Surefront. Please read through the scenario completely, architect your solution, and complete it to the best of your abilities using the time allotted. We ask that you return your completed solution within 24-48 hours of receiving it in order to be considered for the next phase of the hiring process.
+This challenge is intended to test React, Redux, Typescript skills.
+Please read through the scenario completely, architect your solution, and complete it to the best of your abilities using the time allotted. 
 
 ## Scenario & Design Specification
 
@@ -22,9 +23,3 @@ In the project directory, you can run:
 
 - `yarn start` to open the app in development mode with hot reload support.
 - `yarn test` launches the test runner.
-
-## Upon Project Completion
-
-- Commit your changes using Git. Use imperative style commit messages.
-- Push the commits up to the origin.
-- Notify the hiring manager that you have completed the challenge.
