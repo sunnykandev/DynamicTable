@@ -1,7 +1,4 @@
-# React/Redux/Typescript Coding Challenge
-
-This challenge is intended to test React, Redux, Typescript skills.
-Please read through the scenario completely, architect your solution, and complete it to the best of your abilities using the time allotted. 
+# React/Redux/Typescript play
 
 ## Scenario & Design Specification
 
